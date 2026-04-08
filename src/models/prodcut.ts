@@ -1,4 +1,0 @@
-/// Prodcut class 
-class Product {
-    
-}
